@@ -1,0 +1,1 @@
+Base on php,mysql,smarty SSO(Single Sign On) system.
